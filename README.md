@@ -5,7 +5,7 @@ This is my flatlist component with backgroundanimation on swipe up.
 
 
 ## Preview
-[Preview](https://github.com/Gismo1337/expo-react-native-swipeup-flatlist-component/blob/main/preview.gif)
+![Preview](https://github.com/Gismo1337/expo-react-native-swipeup-flatlist-component/blob/main/preview.gif)
 
 ## Requirements
 
